@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "xerkonix",
+  "description": "Claude plugins from XERKONIX",
+  "owner": {
+    "name": "XERKONIX",
+    "email": "contact@xerkonix.com",
+    "url": "https://xerkonix.com"
+  },
+  "plugins": [
+    {
+      "name": "xredy",
+      "source": "./plugins/xredy",
+      "description": "Connect Claude to your company knowledge, datasets and entity types in XREDY",
+      "category": "productivity",
+      "tags": ["knowledge-base", "datasets", "mcp"]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "xredy",
+  "displayName": "XREDY",
+  "version": "1.0.0",
+  "description": "Connect Claude to your company knowledge, datasets and entity types in XREDY",
+  "author": {
+    "name": "XERKONIX",
+    "email": "contact@xerkonix.com",
+    "url": "https://xerkonix.com"
+  },
+  "homepage": "https://xredy.com/docs/mcp",
+  "repository": "https://github.com/xerkonix/claude-plugins",
+  "license": "MIT",
+  "keywords": ["xredy", "knowledge-base", "datasets", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://xredy.com/docs/mcp",
+  "supportUrl": "https://xerkonix.com/contact/",
+  "privacyPolicyUrl": "https://xerkonix.com/privacy",
+  "termsOfServiceUrl": "https://xerkonix.com/terms"
+}

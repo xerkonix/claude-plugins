@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "xredy": {
+      "type": "http",
+      "url": "https://xredy.com/mcp"
+    }
+  }
+}
