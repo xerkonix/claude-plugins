@@ -24,7 +24,7 @@ When you answer from XREDY, name the page, dataset or entity type you used and i
 
 ## Suggest a change
 
-`xredy_propose_knowledge` sends a suggestion for a page. It doesn't change the page: an owner or admin reviews it in XREDY and approves or declines it. The tool is available only when the user allowed suggestions while connecting.
+`xredy_propose_knowledge` sends a suggestion for a page. It doesn't change the page: an owner or admin reviews it in XREDY and approves or declines it. The tool is listed only when the connection includes suggestions.
 
 - `add`: a new sentence for an existing page, optionally under a heading, or a new page with a `title`.
 - `modify`: replace one sentence. Read the page with `xredy_get_page` first and pass the sentence number as `target` and the page `version` you read.
@@ -33,4 +33,4 @@ Tell the user that the suggestion is waiting for review in XREDY.
 
 ## When a tool isn't listed
 
-Dataset tools appear only when the user allowed dataset access while connecting, and the suggestion tool only when they allowed suggestions. If a tool the user needs is missing, tell them to reconnect XREDY and allow that access.
+Dataset tools appear only when the connection includes dataset access, and the suggestion tool only when it includes suggestions. If a tool the user needs is missing, tell them to reconnect XREDY.

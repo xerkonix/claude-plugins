@@ -9,7 +9,7 @@ XREDY keeps your company's knowledge pages, datasets and entity types in one pla
 /plugin install xredy@xerkonix
 ```
 
-The first time Claude uses XREDY, your browser opens the XREDY sign-in and consent page. Choose the space and the access you allow, then return to Claude Code. To change that access later, reconnect from `/mcp`.
+The first time Claude uses XREDY, your browser opens the XREDY sign-in and consent page. Check the space and permissions it shows, choose Allow, then return to Claude Code. To change that access later, reconnect from `/mcp`.
 
 Connection guide: https://xredy.com/docs/mcp
 
