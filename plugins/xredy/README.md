@@ -32,7 +32,7 @@ Connection guide: https://xredy.com/docs/mcp
 | `xredy_query_dataset` | Filter a dataset's rows | Read |
 | `xredy_list_types` | List approved entity types | Read |
 | `xredy_get_type` | Read one entity type | Read |
-| `xredy_propose_knowledge` | Suggest a sentence for a page; a person approves it in XREDY | Write |
+| `xredy_propose_knowledge` | Suggest a sentence or a new page; an owner or admin approves it in XREDY | Write |
 
 Dataset tools appear when you allow dataset access, and `xredy_propose_knowledge` when you allow suggestions.
 
